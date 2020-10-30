@@ -1,0 +1,10 @@
+import org.ajoberstar.grgit.*
+import org.neo4j.doc.build.xslt.XsltTask
+import org.neo4j.doc.build.docbook.DocBookPlugin
+
+ext {
+    manualLanguage = "go"   
+}
+
+// defaultTasks 'asciidoctorHtml', 'asciidoctorPdf'
+// vim: set fdm=expr:

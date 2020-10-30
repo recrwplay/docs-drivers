@@ -8,3 +8,9 @@ pluginRepositories {
     }
     gradlePluginPortal()
 }
+
+include 'dotnetManual'
+include 'goManual'
+include 'jsManual'
+include 'javaManual'
+include 'pythonManual'
