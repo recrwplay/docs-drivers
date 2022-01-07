@@ -1,0 +1,9 @@
+# template
+
+# URI is necessary, empty user name and password are fine.
+
+ARTIFACTORY_URI=https://neo.jfrog.io/neo/docs-maven
+ARTIFACTORY_USERNAME=docs
+ARTIFACTORY_PASSWORD=
+
+# vim: set sw=2 ts=2 ft=sh:
