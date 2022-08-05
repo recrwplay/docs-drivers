@@ -9,4 +9,7 @@ asciidoc:
     neo4j-version: '4.3'
     driver-version: "4.3"
     java-driver-version: "4.3.3"
-    java-examples: 'partial$driver-sources/java-driver/examples/src/main/java/org/neo4j/docs/driver'
+    java-examples: api:example$examples/src/main/java/org/neo4j/docs/driver
+    common-partial: 4.3@common-content:ROOT:partial$
+    common-image: 4.3@common-content:ROOT:image$
+    java-driver-apidoc-version: '4.3'
