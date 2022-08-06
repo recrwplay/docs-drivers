@@ -12,8 +12,6 @@ endif::[]
 :iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.0/css/font-awesome.min.css
 // :example-caption!:
 // :table-caption!:
-ifndef::javascript-root[:javascript-root: {project-root}/build/driver-sources/javascript-driver]
-:javascript-examples: {javascript-root}/test
 :api-docs-base-uri: https://neo4j.com/docs/api
 
 

@@ -9,4 +9,5 @@ asciidoc:
     neo4j-version: '4.2'
     driver-version: "4.2"
     java-driver-version: "4.2.7"
-    java-examples: 'partial$driver-sources/java-driver/examples/src/main/java/org/neo4j/docs/driver'
+    java-examples: api:example$examples/src/main/java/org/neo4j/docs/driver
+    java-driver-apidoc-version: '4.2'

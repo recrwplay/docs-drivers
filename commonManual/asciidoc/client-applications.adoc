@@ -127,7 +127,7 @@ Starting with *Neo4j 4.0*, client-server communication uses only *_unencrypted l
 
 This is a change from previous versions, which switched on encryption by default, but generated a self-signed certificate out of the box.
 
-When a full certificate is installed, and encryption is enabled on the driver, full certificate checks are carried out (refer to <<operations-manual#ssl-framework, Operations Manual -> SSL framework >>).
+When a full certificate is installed, and encryption is enabled on the driver, full certificate checks are carried out (refer to link:docs/operations-manual/4.2/security/ssl-framework/index.adoc[Operations Manual -> SSL framework]).
 Full certificates provide better overall security than self-signed certificates as they include a complete chain of trust back to a root certificate authority.
 
 # end::uris[]
