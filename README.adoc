@@ -23,7 +23,7 @@ The examples for each of the driver languages are generated out of each driver's
 
 ## Notes
 
-This repo mostly functions in the same way as any other Antora repo, such as docs-getting-started, docs-java-reference. 
+This repo mostly functions in the same way as any other Antora repo, such as docs-getting-started, docs-java-reference.
 
 The key difference with driver-documentation is that it includes remote content from the Neo4j Driver repos.
 To do this, the repo uses the https://www.npmjs.com/package/@neo4j-documentation/remote-include[neo4j-documentation/remote-include] package as an asciidoc extension.
