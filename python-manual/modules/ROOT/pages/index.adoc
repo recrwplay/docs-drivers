@@ -1,6 +1,10 @@
-:page-toclevels: 0
-
+ifdef::backend-pdf[]
+= The Neo4j Python Driver Manual v{python-driver-version}
+endif::[]
+ifndef::backend-pdf[]
 = Build applications with Neo4j and Python
+endif::[]
+:page-toclevels: 0
 
 The Python driver allows you to connect and interact with a Neo4j database through a Python application.
 

@@ -252,7 +252,9 @@ if __name__ == "__main__":
 image::{common-image}/pyvis-example.png[]
 
 
+ifndef::backend-pdf[]
 [discrete.glossary]
 == Glossary
 
 include::{common-partial}/glossary.adoc[]
+endif::[]

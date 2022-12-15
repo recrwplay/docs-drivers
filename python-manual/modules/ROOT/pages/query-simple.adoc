@@ -259,7 +259,9 @@ with GraphDatabase.driver(URI, auth=AUTH) as driver:
 ----
 
 
+ifndef::backend-pdf[]
 [discrete.glossary]
 == Glossary
 
 include::{common-partial}/glossary.adoc[]
+endif::[]
